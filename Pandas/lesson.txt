@@ -1,0 +1,46 @@
+// What is pandas
+It is a powerful library for data manipulation and analysis..
+It provides easy to use Data Structure
+
+// Panndas Data Structure:-
+1. Series : One dimension labeled array
+2. Data Frame : Two dimension labeled array kind of table
+
+Series:-
+- pd.Series take care S is capital and its case sensitive
+- It will simply convert list into kind of dictonary assign values from array to each index...
+// 
+s = pd.Series([10,20,30], index=["a","b","c"])
+print(s)
+//
+ O/P: -
+ a    10
+ b    20
+ c    30
+ dtype: int64
+
+DataFrame:-
+//
+data = {"Name": ["Alice","Bob"],"Age": [25,30]}
+df = pd.DataFrame(data)
+//
+O/P:---
+    Name  Age
+0  Alice   25
+1    Bob   30
+
+
+// Data Cleaning and Preparation with pandas
+1. Handling Missing values
+Methods to handle:
+- Drop Missing Values 
+- Fill Missing Values
+- Interpolation : Filling data according to the relation to the other data...
+
+2. Data Trannsformation
+- Renaming Columns
+- Changing Data Types
+- Creating or Modifying Columns 
+
+
+// Data Aggregation and Grouping Data

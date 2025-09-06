@@ -1,0 +1,22 @@
+// Why NumPy?
+- It provides with large varities of functions and operations to deal with large amount of data...
+- It has a very good integration with other libraries like pandas, matplotlib, pytorch, etc..
+- It has a good performance : NumPy arrays are better than python lists...
+- Using NumPy is quiet easy...
+
+// arr = [1,2,3,4]
+arr[-1] = 4
+arr[-2] = 3
+--> -ve Index is used then check from reverse
+
+// Broadcasting in NumPy
+It allows perform arithmetic operations on different size of arrays..
+It matches the bigger array size and dimension in order to perform operations..
+Rules:-
+1. Dimensions are aligned from the right
+2. A dimesionn is compatible if:
+   - It matches the other array's dimension
+   - One of the dimension is 1
+
+
+// Aggregate functions compute summary and statistics for array...

@@ -1,0 +1,20 @@
+EDA - Exploratory Data Analysis 
+
+What is EDA?
+- Involves summarizing dataset in order to find patters
+
+Steps:-
+- Data Cleaning
+- Data Trannsformation
+- Aggregation and Filtering
+- Identifying Patterns, Trends and Correlations
+
+Key Patters we are looking for:
+- Relationship between variables
+- Distribution of variables(histogram,boxplots)
+- Outlies or anomalies
+
+- Summary statistics. Visual Insights and Hypothesis Generation...
+
+We will be performing this on titanic datasets....
+Dataset:- https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv

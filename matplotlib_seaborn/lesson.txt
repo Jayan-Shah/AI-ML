@@ -1,0 +1,8 @@
+// Matplotlib is used for data visualization
+- We plot the numbers which we see in the form of numbers as it attracts more...
+
+
+// Seaborn is more advanced visualization--
+Provides more customization on matspotlib
+- Heatmap
+- Pairplot
